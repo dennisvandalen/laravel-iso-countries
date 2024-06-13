@@ -1,8 +1,10 @@
 # Laravel ISO Countries
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/io238/laravel-iso-countries.svg?label=Version)](https://packagist.org/packages/io238/laravel-iso-countries)
-[![GitHub Tests Action Status](https://github.com/io238/laravel-iso-countries/workflows/Tests/badge.svg?branch=main)](https://github.com/io238/laravel-iso-countries/actions?query=workflow%3ATests+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/io238/laravel-iso-countries.svg?label=Downloads)](https://packagist.org/packages/io238/laravel-iso-countries)
+⚠️ This is a fork while the official repo doesn't support Laravel 11 ⚠️
+
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/arthurydalgo/laravel-iso-countries.svg?label=Version)](https://packagist.org/packages/arthurydalgo/laravel-iso-countries)
+[![GitHub Tests Action Status](https://github.com/ArthurYdalgo/laravel-iso-countries/workflows/Tests/badge.svg?branch=main)](https://github.com/ArthurYdalgo/laravel-iso-countries/actions?query=workflow%3ATests+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/arthurydalgo/laravel-iso-countries.svg?label=Downloads)](https://packagist.org/packages/arthurydalgo/laravel-iso-countries)
 
 This package provides ready-to-use application models and seeds the database with ISO data from various sources. This
 package can be used in multi-language apps and supports Country/Language/Currency names in almost any locale.
@@ -35,7 +37,7 @@ Currency::find('EUR')->countries;
 You can install the package via composer:
 
 ```bash
-composer require io238/laravel-iso-countries
+composer require arthurydalgo/laravel-iso-countries
 ```
 
 The latest version of this package requires PHP version 8.0 or above. If you need support for PHP 7.4, please install
