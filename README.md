@@ -1,6 +1,6 @@
 # Laravel ISO Countries
 
-⚠️ This is a fork while the official repo doesn't support Laravel 11 ⚠️
+⚠️ This is a fork while the official repo doesn't support Laravel 11/12 ⚠️
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/arthurydalgo/laravel-iso-countries.svg?label=Version)](https://packagist.org/packages/arthurydalgo/laravel-iso-countries)
 [![GitHub Tests Action Status](https://github.com/ArthurYdalgo/laravel-iso-countries/workflows/Tests/badge.svg?branch=main)](https://github.com/ArthurYdalgo/laravel-iso-countries/actions?query=workflow%3ATests+branch%3Amain)
